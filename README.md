@@ -5,4 +5,4 @@ a script suite to control modern dell (8th Gen +) laptops &amp; Iconized Notific
 
 ![preview](kb_light_noti2.jpg)
 
-![preview](kb_light_noti3.jpb)
+![preview](kb_light_noti3.jpg)
